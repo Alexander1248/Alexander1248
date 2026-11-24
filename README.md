@@ -18,7 +18,7 @@ I work across multiple domains including:
 ### Graphics & Rendering
 
 * OpenGL
-* Vulkan (WIP)
+* Vulkan
 * OpenCL
 * Compute Shaders
 * Raymarching
